@@ -50,14 +50,14 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
-\### :zap: Actividad reciente
+### :zap: Actividad reciente
 
-\<!--START\_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-\<!--END\_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
-\<!--RECENT\_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 
-\<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT_ACTIVITY:last_update-->
